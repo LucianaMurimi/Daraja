@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319930830190",
+    "project_id": "daraja-ed208",
+    "storage_bucket": "daraja-ed208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319930830190:android:32bfe685a0cd8b2cbe857f",
+        "android_client_info": {
+          "package_name": "com.example.daraja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319930830190-8cisltcruu4bsu5dpm7281q69rk9mi8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgH72JtCg8bUzTJ8XlhgwMbvMrojWeDRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319930830190-8cisltcruu4bsu5dpm7281q69rk9mi8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
